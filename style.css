@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    align-content: center;
+    background-color: #B6FFCE;
+}
+.headdiv{
+    text-align: center;
+}
+#heading{
+    text-align: center;
+    font-family: 'Titan One', cursive;
+    color: #3EC70B;
+}
+#list{
+    color: #4E944F;
+}
+#croimg{
+    width: 40%;
+    border-radius: 100%;
+}
+#sub{
+    margin-top: 7%;
+    border-radius: 10%;
+}
